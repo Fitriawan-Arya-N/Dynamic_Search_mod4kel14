@@ -1,0 +1,16 @@
+/* CSS untuk komponen App */
+body {
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center; /* Mengatur komponen ke tengah secara horizontal */
+  align-items: center; /* Mengatur komponen ke tengah secara vertikal */
+  height: 100vh; /* Mengisi tinggi viewport */
+  background-color: #dceec7; /* Warna latar belakang */
+}
+
+h1 {
+  text-align: center; /* Mengatur teks ke tengah */
+}
+
+/* CSS tambahan jika diperlukan */

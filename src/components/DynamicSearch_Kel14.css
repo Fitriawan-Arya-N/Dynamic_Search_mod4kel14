@@ -1,0 +1,51 @@
+
+.dynamic-search {
+    text-align: center; 
+    padding: 20px;
+  }
+  
+
+  .input-container {
+    margin-bottom: 20px;
+  }
+  
+  input[type="text"] {
+    padding: 10px;
+    font-size: 16px;
+    width: 100%;
+    border: 2px solid #ccc;
+    border-radius: 5px;
+    outline: none;
+  }
+  
+
+  ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  li {
+    margin: 10px 0;
+    display: flex; 
+    align-items: center; 
+  }
+  
+
+  .avatar {
+    width: 40px;
+    height: 40px;
+    background-color: #007bff; 
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-right: 10px;
+    font-weight: bold;
+    color: #fff;
+  }
+  
+  
+  .no-match {
+    color: red;
+  }
+  
